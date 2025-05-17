@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Совершенствование Цифровой Инфраструктуры Московского Политеха'
+title = 'Совершенствование Цифровой Инфраструктуры ПД Московского Политеха'
 theme = "Defaukt"
 [markup.goldmark.renderer]
 unsafe= true
