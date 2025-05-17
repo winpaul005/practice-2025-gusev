@@ -4,24 +4,29 @@ title = 'My New Hugo Site'
 
 [menus]
   [[menus.main]]
-    name = 'О Проекте'
+    name = 'Домашняя'
     pageRef = '/'
     weight = 10
 
   [[menus.main]]
+    name = 'О Проекте'
+    pageRef = '/about'
+    weight = 20
+
+  [[menus.main]]
     name = 'Журнал'
     pageRef = '/posts'
-    weight = 20
+    weight = 30
 
   [[menus.main]]
     name = 'Участники'
     pageRef = '/participants'
-    weight = 30
+    weight = 40
 
   [[menus.main]]
     name = 'Ресурсы'
     pageRef = '/external_sources'
-    weight = 40
+    weight = 50
 
 
 
