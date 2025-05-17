@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Журнал on Совершенствование Цифровой Инфраструктуры Московского Политеха</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Журнал on Совершенствование Цифровой Инфраструктуры Московского Политеха</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Mar 2025 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Интерфейс витрины проектов</title>
+      <link>http://localhost:1313/posts/brief2/</link>
+      <pubDate>Sat, 22 Mar 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/brief2/</guid>
+      <description>&lt;p&gt;Во время анализа проблем цифровой инфраструктуры Московского Политеха выявлено, что витрина проектов ЦПД на сайте ЦПД имеет устаревший интерфейс, затрудняющий выбор проекта в соответствии с личными компетенциями и навыками студента. Он был также переработан в процессе работы.&#xA;&lt;img src=&#34;2.png&#34; alt=&#34;Обновленный интерфейс ЛК Московского политеха&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Интерфейс ЛК</title>
+      <link>http://localhost:1313/posts/brief1/</link>
+      <pubDate>Sat, 15 Mar 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/brief1/</guid>
+      <description>&lt;p&gt;Во время анализа проблем цифровой инфраструктуры Московского Политеха было выявлено несоответствие функционала раздела &amp;ldquo;Проектная деятельность&amp;rdquo; нового интерфейса функционалу аналогичного раздела старого интерфейса, а именно - отсутствие возможности выбрать определённый проект во время его выбора, из-за чего студенту приходится &amp;ldquo;прыгать&amp;rdquo; между старым и новым интерфейсом личного кабинета, отсутствие отдельного расписания для встреч по выбранному проекту (В общем расписании указаны лишь общие занятия, зачастую не имеющие ничего общего с реальным расписанием встреч по проекту).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Диаграмма Ганта</title>
+      <link>http://localhost:1313/posts/brief3/</link>
+      <pubDate>Tue, 04 Mar 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/brief3/</guid>
+      <description>&lt;p&gt;Для планирования выполняемых задач была создана диаграмма ганта, где отображена последовательность выполнения задач с указанными датами.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;55.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

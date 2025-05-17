@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <hr>
+  {{ .Content }}
+  {{ range .Pages }}
+  <a href="{{ .RelPermalink }}" class="item_preview">
+    <h2 class = "title_preview">{{ .LinkTitle }}</h2>
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
+    <h5><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></h5>
+    {{ .Content | strings.Truncate 256 }}
+  </a>
+  {{ end }}
+{{ end }}
