@@ -6,7 +6,10 @@
 |-|-|-|-|
 | Гусев Павел Борисович | 241-332 | 09.03.02 | АСОИУ |
 
-<video src = "demo.mkv"></video>
+<figure class="video_container">
+  <iframe src="demo.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 ![Демонстрация работы сайта](demo.mkv)
 
 ## Задание
